@@ -206,10 +206,11 @@ nav a {
 	text-decoration: none;
 	margin: 5px 0 0 20px;
 	display: block;
+	transition: 0.2s;
 }
 
-nav a:hover {
-	color: #ededed;
+nav li a:hover {
+	border-bottom: 3px solid rgba(32, 174, 255, 0.9);
 }
 
 .logo {

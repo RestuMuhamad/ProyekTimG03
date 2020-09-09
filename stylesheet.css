@@ -101,6 +101,14 @@ a {
     padding: 0 20px;
 }
 
+.info p {
+	font-family: arial;
+	font-size: 14px;
+}
+
+.info span {
+	font-weight: 700;
+}
 
 footer {
 	padding-top: 10px;

@@ -122,15 +122,32 @@ a {
 }
 
 footer {
-	padding-top: 10px;
-	text-align: center;
+	padding: 12px 50px;
+	height: 180px;
+	background-color: rgb(26, 21, 21);
+	color: white;
 }
 
-footer p {
-	margin-top: -12px;
+footer .footer-logo h2 {
+	float: left;
+	font-size: 52px;
 	font-family: verdana;
+	text-shadow: 1px 0 3px rgba(32, 174, 255, 0.9);
+	letter-spacing: 2px;
 }
 
+footer .anggota {
+	float: right;
+}
+
+footer .ket h2 {
+	padding-left: 30px;
+}
+
+footer .anggota li {
+	margin-right: 80px;
+	padding-bottom: 10px;
+}
 header {
 	background: #111;
 }

@@ -133,12 +133,9 @@
     font-size: 20px;
     margin-bottom: 10px;
   }
-  footer .footer-logo h2 {
-    line-height: 140px;
-    font-size: 34px;
-  }
   footer {
-    height: 170px;
+    height: 172px;
+    padding-right: 0;
   }
   footer .footer-logo h2 {
     line-height: 140px;
@@ -150,5 +147,12 @@
   }
   .anggota {
     margin-top: 10px;
+    float: right;
+  }
+  .ket h2 {
+    font-size: 20px;
+  }
+  .ket ul {
+    font-size: 14px;
   }
 }

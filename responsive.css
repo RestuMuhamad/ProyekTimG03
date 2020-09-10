@@ -38,11 +38,14 @@
   .info-anime {
     width: 100%;
   }
+  .container{
+    width: 100%;
+  }
   .info-season p {
-    margin-bottom: 8px; 
+    font-size: 15px; 
   }
   .info-season h2 {
-    margin-bottom: 20px;
+    font-size: 22px;
   }
   footer .ket h2 {
     padding-left: 0px;
@@ -110,11 +113,14 @@
   .info-anime {
     width: 100%;
   }
+  .container{
+    width: 100%;
+  }
   .info-season p {
-    margin-bottom: 8px; 
+    font-size: 14px; 
   }
   .info-season h2 {
-    margin-bottom: 20px;
+    font-size: 20px;
   }
   footer .footer-logo h2 {
     line-height: 140px;

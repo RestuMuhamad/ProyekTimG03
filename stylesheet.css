@@ -121,6 +121,40 @@ a {
 	padding: 0 20px;
 }
 
+.info-anime {
+	height: 200px;
+}
+
+.info-season {
+	width: 100%;
+	margin-bottom: 50px;
+	margin-left: 20px;
+}
+
+.info-season h2 {
+	font-family: Helvetica;
+	font-weight: 500;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding-bottom: 3px;
+	border-bottom: #bebebe 1px solid
+}
+
+.info-season p {
+	font-family: "Roboto", sans-serif;
+	height: 20px;
+}
+
+.info-season span {
+	font-family: "Roboto", sans-serif;
+	font-weight: 700;
+	margin-right: 10px;
+}
+
+.info-s {
+	float: left;
+}
+
 footer {
 	padding: 12px 50px;
 	height: 180px;

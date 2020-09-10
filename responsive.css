@@ -51,6 +51,9 @@
     font-size: 22px;
     margin-bottom: 12px;
   }
+  footer {
+    height: 170px;
+  }
   footer .ket h2 {
     padding-left: 0px;
     padding-bottom: 10px;
@@ -74,7 +77,7 @@
     box-sizing: border-box;
   }
   .headline {
-    height: 100px;
+    height: 80px;
   }
   .headline h1 {
     display: none;
@@ -136,6 +139,7 @@
   footer {
     height: 172px;
     padding-right: 0;
+    padding-left: 25px;
   }
   footer .footer-logo h2 {
     line-height: 140px;
@@ -146,7 +150,7 @@
     margin: 0;
   }
   .anggota {
-    margin-top: 10px;
+    margin-top: 20px;
     float: right;
   }
   .ket h2 {

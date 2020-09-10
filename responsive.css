@@ -98,6 +98,12 @@
   .anime .genre {
     padding-bottom: 18px;
   }
+  .info-season p {
+    margin-bottom: 8px; 
+  }
+  .info-season h2 {
+    margin-bottom: 20px;
+  }
   footer .footer-logo h2 {
     line-height: 140px;
     font-size: 34px;

@@ -104,6 +104,29 @@ a {
 	padding: 0 20px;
 }
 
+.info-season {
+	width: 100%;
+	margin-bottom: 50px;
+	margin-left: 20px;
+	border-bottom: #f0f0f0 1px solid;
+}
+
+.info-season h2 {
+	font-family: Helvetica;
+	font-weight: 500;
+	margin-top: 0;
+	padding-bottom: 3px;
+	border-bottom: #bebebe 1px solid
+}
+
+.info-season p {
+	font-family: "Roboto", sans-serif;
+}
+
+.info-season span {
+	font-weight: 700;
+}
+
 .judul {
 	display: table-cell;
 	height: 75px;

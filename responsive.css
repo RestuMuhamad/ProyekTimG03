@@ -62,6 +62,9 @@
   .footer-logo h2 {
     margin: 43.16px 0;
   }
+  .anggota {
+    margin-top: 20px;
+  }
 }
 
 @media (max-width: 700px) {

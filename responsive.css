@@ -35,6 +35,15 @@
   .anime .genre {
     padding-bottom: 18px;
   }
+  .info-anime {
+    width: 100%;
+  }
+  .info-season p {
+    margin-bottom: 8px; 
+  }
+  .info-season h2 {
+    margin-bottom: 20px;
+  }
   footer .ket h2 {
     padding-left: 0px;
     padding-bottom: 10px;
@@ -97,6 +106,9 @@
   }
   .anime .genre {
     padding-bottom: 18px;
+  }
+  .info-anime {
+    width: 100%;
   }
   .info-season p {
     margin-bottom: 8px; 

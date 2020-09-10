@@ -140,4 +140,8 @@
   footer .anggota {
     display: none;
   }
+  .footer-logo h2 {
+    height: 160px;
+    margin: 0;
+  }
 }

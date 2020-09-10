@@ -35,6 +35,14 @@
   .anime .genre {
     padding-bottom: 18px;
   }
+  footer .ket h2 {
+    padding-left: 0px;
+    padding-bottom: 10px;
+  }
+  footer .anggota li {
+    margin-right: 20px;
+    padding-bottom: 10px;
+  }
 }
 
 @media (max-width: 700px) {
@@ -49,14 +57,14 @@
   .headline {
     height: 100px;
   }
-  .headline h1 {    
+  .headline h1 {
     display: none;
   }
   .headline p {
     display: none;
   }
-  .header-left .logo {
-    width: 10px;
+  .logo {
+    height: 10px;
     margin-left: 15px;
   }
   .header-right {
@@ -89,5 +97,12 @@
   }
   .anime .genre {
     padding-bottom: 18px;
+  }
+  footer .footer-logo h2 {
+    line-height: 140px;
+    font-size: 34px;
+  }
+  footer .anggota {
+    display: none;
   }
 }

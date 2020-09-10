@@ -63,7 +63,7 @@
     margin: 43.16px 0;
   }
   .anggota {
-    margin-top: 20px;
+    margin-top: 14px;
   }
 }
 
@@ -72,9 +72,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-  }
-  ul {
-    display: none;
   }
   .headline {
     height: 100px;
@@ -140,11 +137,18 @@
     line-height: 140px;
     font-size: 34px;
   }
-  footer .anggota {
-    display: none;
+  footer {
+    height: 160px;
+  }
+  footer .footer-logo h2 {
+    line-height: 140px;
+    font-size: 34px;
   }
   .footer-logo h2 {
     height: 160px;
     margin: 0;
+  }
+  .anggota {
+    margin-top: 10px;
   }
 }
